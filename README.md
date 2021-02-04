@@ -1,3 +1,3 @@
-# robofriends-hooks
+# robofriends-react-redux
 
-Robofriends with Hooks!
+Robofriends with React + Redux!
